@@ -1,0 +1,4 @@
+int32[] object_ids
+---
+bool success
+int32 num_objects_processed

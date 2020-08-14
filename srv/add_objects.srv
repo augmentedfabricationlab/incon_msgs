@@ -1,0 +1,5 @@
+geometry_msgs/PoseStamped[] poses
+---
+bool success
+int32[] added_keys
+int32[] added_ids 
