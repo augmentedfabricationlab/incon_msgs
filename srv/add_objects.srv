@@ -1,5 +1,5 @@
-geometry_msgs/PoseStamped[] poses
+incon_msgs/ObjectTypeWithPose[] objects
 ---
 bool success
 int32[] added_keys
-int32[] added_ids 
+int32[] added_ids

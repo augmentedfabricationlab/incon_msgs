@@ -1,0 +1,4 @@
+incon_msgs/BuildingStep[] building_steps
+---
+bool success
+int32 num_building_steps_added

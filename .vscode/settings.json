@@ -1,7 +1,0 @@
-{
-    "cmake.configureOnOpen": false,
-    "python.autoComplete.extraPaths": [
-        "/home/ar-bricklaying/catkin_ws/devel/lib/python2.7/dist-packages",
-        "/opt/ros/kinetic/lib/python2.7/dist-packages"
-    ]
-}
